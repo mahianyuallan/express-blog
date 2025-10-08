@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/mahianyuallan/express-blog#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "express": "^5.1.0"
   }
 }
